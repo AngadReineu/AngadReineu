@@ -10,9 +10,9 @@ Currently diving deep into:
 
 🌐 Node.js
 
-🧱 System Design & Architecture
-🔗 Let’s Connect!
-Feel free to check out my projects, raise issues, or just drop a message!
-📧 angadreineu@gmail.com
+🧱 System Design & Architecture <br/>
+🔗 Let’s Connect!<br/>
+Feel free to check out my projects, raise issues, or just drop a message!<br/>
+📧 angadreineu@gmail.com<br/>
 💼 LinkedIn www.linkedin.com/in/angad-reineu
 
